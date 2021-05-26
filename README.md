@@ -1,110 +1,187 @@
 # 4th-ML100Days
 
-### 機器學習概論 Introduction of Machine Learning
-##### 1. 機器學習概論 
+機器學習百日馬拉松是一個結合自學、專家協助及社群共學的 AI 自學挑戰活動，目的是希望學員從參與的那天起，每天至少花一小時，有系統的學習資料科學與機器學習的相關知識點，並進行 AI 程式練習，連續堅持 100 天，進而更好理解掌握資料科學與
+AI 程式實作的能力。
+
+##### 1. 機器學習概論
+
 * 從概念上理解機器學習的目的與限制，並導覽機器學習流程
+
 ```
 Day_01 : 資料介紹與評估資料
 Day_02 : 機器學習概論
 Day_03 : 機器學習 - 流程與步驟
 Day_04 : EDA/讀取資料與分析流程
 ```
-* **Day_05 : 如何建立一個 DataFrame？如何讀取其他資料？**
-* **Day_06 : 欄位的資料類型介紹及處理**
-* **Day_07 : 特徵類型**
-* **Day_08 : EDA 之資料分佈**
-* **Day_09 : 離群值 (Outlier) 及其處理**
-* **Day_10 : 數值特徵 - 去除離群值**
-* **Day_11 : 數值填補與連續數值標準化**
-* **Day_12 : 數值型特徵 - 補缺失值與標準化**
-* **Day_13 : 常用的 DataFrame 操作**
-* **Day_14 : 相關係數簡介**
-* **Day_15 : 相關係數實作**
-* **Day_16 : 繪圖與樣式 ＆ Kernel Density Estimation (KDE)**
-* **Day_17 : 把連續型變數離散化**
-* **Day_18 : 把連續型變數離散化實作**
-* **Day_19 : Subplot**
-* **Day_20 : Heatmap & Grid-plot**
-* **Day_21 : 模型初體驗 - Logistic Regression**
-* **Day_22 : 特徵工程簡介**
-* **Day_23 : 數值型特徵 - 去除偏態**
-* **Day_24 : 類別型特徵 - 基礎處理**
-* **Day_25 : 類別型特徵 - 均值編碼**
-* **Day_26 : 類別型特徵 - 其他進階處理**
-* **Day_27 : 時間型特徵**
-* **Day_28 : 特徵組合 - 數值與數值組合**
-* **Day_29 : 特徵組合 - 類別與數值組合**
-* **Day_30 : 特徵選擇**
-* **Day_31 : 特徵評估**
-* **Day_32 : 分類型特徵優化 - 葉編碼**
-* **Day_33 : 機器如何學習**
-* **Day_34 : 訓練與測試集切分**
-* **Day_35 : Regression & Classification**
-* **Day_36 : 評估指標選定**
-* **Day_37 : Regression 模型**
-* **Day_38 : Regression 模型 </>**
-* **Day_39 : LASSO, Ridge regression**
-* **Day_40 : LASSO, Ridge regression </>**
-* **Day_41 : 決策樹 Decision Tree**
-* **Day_42 : 決策樹 </>**
-* **Day_43 : 隨機森林樹 Random Forest**
-* **Day_44 : 隨機森林樹 </>**
-* **Day_45 : 梯度提升機 Gradient Boosting Machine**
-* **Day_46 : 梯度提升機 </>**
-* **Day_47 : 超參數調整**
-* **Day_48 : Kaggle**
-* **Day_49 : 混和泛化 (Blending)**
-* **Day_50 : 堆疊泛化 (Stacking)**
-* **Day_51~53 : Kaggle期中考**
-* **Day_54 : 非監督式機器學習簡介**
-* **Day_55 : K-means 聚類算法**
-* **Day_56 : K-means 觀察 : 使用輪廓分析**
-* **Day_57 : 階層分群法**
-* **Day_58 : 階層分群法 觀察 : 2D 樣版資料集**
-* **Day_59 : 降維方法 - 主成分分析**
-* **Day_60 : PCA 觀察 : 使用手寫辨識資料集**
-* **Day_61 : 降維方法 - t-SNE**
-* **Day_62 : t-sne 觀察 : 分群與流形還原**
-* **Day_63 : 深度學習簡介**
-* **Day_64 : 深度學習體驗 - 模型調整與學習曲線**
-* **Day_65 : 深度學習體驗 - 啟動函數與正規化**
-* **Day_66 : Keras 安裝與介紹**
-* **Day_67 : Keras embedded dataset 的介紹與應用**
-* **Day_68 : 序列模型搭建網路 Sequential API**
-* **Day_69 : Keras Module API 的介紹與應用**
-* **Day_70 : Multi-layer Perception 簡介**
-* **Day_71 : 損失函數的介紹與應用**
-* **Day_72 : 啟動函數的介紹與應用**
-* **Day_73 : 梯度下降 Gradient Descent 簡介**
-* **Day_74 : Gradient Descent 數學原理**
-* **Day_75 : 反向式傳播簡介**
-* **Day_76 : 優化器 Optimizers 簡介**
-* **Day_77 : 訓練神經網路的細節與技巧**
-* **Day_78 : 訓練神經網路前的注意事項**
-* **Day_79 : 訓練神經網路的細節與技巧 - Learning Rate Effect**
-* **Day_80 : 優化器與學習率的組合與比較**
-* **Day_81 : 訓練神經網路的細節與技巧 - Regularization**
-* **Day_82 : 訓練神經網路的細節與技巧 - Dropout**
-* **Day_83 : 訓練神經網路的細節與技巧 - Batch normalization**
-* **Day_84 : 正規化/機移除/批次標準化的 組合與比較**
-* **Day_85 : 訓練神經網路的細節與技巧 - 使用 callbacks 函數做 earlystop**
-* **Day_86 : 訓練神經網路的細節與技巧 - 使用 callbacks 函數儲存 model**
-* **Day_87 : 訓練神經網路的細節與技巧 - 使用 callbacks 函數做 reduce learning rate**
-* **Day_88 : 訓練神經網路的細節與技巧 - 撰寫自己的 callbacks 函數**
-* **Day_89 : 訓練神經網路的細節與技巧 - 撰寫自己的 Loss function**
-* **Day_90 : 傳統電腦視覺與影像辨識**
-* **Day_91 : 傳統電腦視覺與影像辨識 </>**
-* **Day_92 : 卷積神經網路(Convolution Neural Network, CNN) 簡介**
-* **Day_93 : 卷積神經網路架構細節**
-* **Day_94 : 卷積神經網路 - 卷積(Convolution)層與參數調整**
-* **Day_95 : 卷積神經網路 - 池化(Pooling)層與參數調整**
-* **Day_96 : Keras 中的 CNN layers**
-* **Day_97 : 使用 CNN 完成 CIFAR-10 資料集 </>**
-* **Day_98 : 訓練卷積神經網路的細節與技巧 - 處理大量數據**
-* **Day_99 : 訓練卷積神經網路的細節與技巧 - 處理小量數據**
-* **Day_100 : 訓練卷積神經網路的細節與技巧 - 轉移學習 (Transfer learning)**
-* **Day_101~103 : 影像辨識**
-* **Day_104 : 互動式網頁神經網路視覺化**
-* **Day_105 : CNN 卷積網路演進和應用**
-* **Day_106 : 電腦視覺常用公開資料集**
-* **Day_107 : 電腦視覺應用介紹 - 影像分類, 影像分割, 物件偵測**
+
+##### 2. 資料清理數據前處理
+
+* 以滾動方式進行資料清理與探索性分析
+
+```
+Day_05 : 如何新建一個 dataframe? 如何讀取其他資料? (非 csv 的資料)
+Day_06 : EDA：欄位的資料類型介紹及處理
+Day_07 : 特徵類型
+Day_08 : EDA資料分佈
+Day_09 : EDA：Outlier 及處理
+Day_10 : 數值特徵 - 去除離群值
+Day_11 : 常用的數值取代：中位數與分位數連續數值標準化
+Day_12 : 數值型特徵 - 補缺失值與標準化
+Day_13 : DataFrame operationData frame merge/常用的 DataFrame 操作
+Day_14 : 程式實作 EDA: correlation/相關係數簡介
+Day_15 : EDA from Correlation
+Day_16 : EDA: 不同數值範圍間的特徵如何檢視/繪圖與樣式Kernel Density Estimation (KDE)
+Day_17 : EDA: 把連續型變數離散化
+Day_18 : 程式實作 把連續型變數離散化
+Day_19 : Subplot
+Day_20 : Heatmap & Grid-plot
+Day_21 : 模型初體驗 Logistic Regression
+```
+
+##### 3. 資料科學特徵工程技術
+
+* 使用統計或領域知識，以各種組合調整方式，生成新特徵以提升模型預測力
+
+```
+Day_22 : 特徵工程簡介
+Day_23 : 數值型特徵 - 去除偏態
+Day_24 : 類別型特徵 - 基礎處理
+Day_25 : 類別型特徵 - 均值編碼
+Day_26 : 類別型特徵 - 其他進階處理
+Day_27 : 時間型特徵
+Day_28 : 特徵組合 - 數值與數值組合
+Day_29 : 特徵組合 - 類別與數值組合
+Day_30 : 特徵選擇
+Day_31 : 特徵評估
+Day_32 : 分類型特徵優化 - 葉編碼
+```
+
+##### 4. 機器學習基礎模型建立
+
+* 學習透過Scikit-learn等套件，建立機器學習模型並進行訓練！
+
+```
+Day_33 : 機器如何學習?
+Day_34 : 訓練/測試集切分的概念
+Day_35 : Regression vs. Classification
+Day_36 : 評估指標選定/Evaluation Metrics
+Day_37 : Regression Model 介紹 - 線性迴歸/羅吉斯回歸
+Day_38 : Regression Model 程式碼撰寫
+Day_39 : Regression Model 介紹 - LASSO 回歸/ Ridge 回歸
+Day_40 : Regression Model 程式碼撰寫
+Day_41 : tree based model - 決策樹 (Decision Tree) 模型介紹
+Day_42 : tree based model - 決策樹程式碼撰寫
+Day_43 : tree based model - 隨機森林 (Random Forest) 介紹
+Day_44 : tree based model - 隨機森林程式碼撰寫
+Day_45 : tree based model - 梯度提升機 (Gradient Boosting Machine) 介紹
+Day_46 : tree based model - 梯度提升機程式碼撰寫
+```
+
+##### 5. 機器學習調整參數
+
+* 了解模型內的參數意義，學習如何根據模型訓練情形來調整參數
+
+```
+Day_47 : 超參數調整與優化
+Day_48 : Kaggle 競賽平台介紹
+Day_49 : 集成方法 : 混合泛化(Blending)
+Day_50 : 集成方法 : 堆疊泛化(Stacking)
+```
+
+##### Kaggle 第一次期中考
+
+```
+Day_51-53 : Kaggle期中考 考ML與調參相關
+```
+
+##### 6. 非監督式機器學習
+
+* 利用分群與降維方法探索資料模式
+
+```
+Day_54 : clustering 1 非監督式機器學習簡介
+Day_55 : clustering 2 聚類算法
+Day_56 : K-mean 觀察 : 使用輪廓分析
+Day_57 : clustering 3 階層分群算法
+Day_58 : 階層分群法 觀察 : 使用 2D 樣版資料集
+Day_59 : dimension reduction 1 降維方法-主成份分析
+Day_60 : PCA 觀察 : 使用手寫辨識資料集
+Day_61 : dimension reduction 2 降維方法-T-SNE
+Day_62 : t-sne 觀察 : 分群與流形還原
+```
+
+##### 7. 深度學習理論與實作
+
+* 神經網路的運用
+
+```
+Day_63 : 深度學習簡介
+Day_64 : 深度學習體驗 - 模型調整與學習曲線
+Day_65 : 深度學習體驗 - 啟動函數與正規化
+```
+
+##### 8. 初探深度學習使用Keras
+
+* 學習機器學習(ML)與深度學習(DL)的好幫手
+
+```
+Day_66 : Keras 安裝與介紹
+Day_67 : Keras Dataset
+Day_68 : Keras Sequential API
+Day_69 : Keras Module API
+Day_70 : 深度神經網路的基礎知識
+Day_71 : 損失函數
+Day_72 : 啟動函數
+Day_73 : 梯度下降 Gradient Descent
+Day_74 : Gradient Descent 數學原理
+Day_75 : BackPropagation
+Day_76 : 優化器 Optimizers
+Day_77 : 訓練神經網路的細節與技巧 - Validation and overfit
+Day_78 : 訓練神經網路前的注意事項
+Day_79 : 訓練神經網路的細節與技巧 - Learning Rate Effect
+Day_80 : 訓練神經網路的細節與技巧 - Regularization
+Day_81 : 優化器與學習率的組合與比較
+Day_82 : 訓練神經網路的細節與技巧 - Dropout
+Day_83 : 訓練神經網路的細節與技巧 - Batch normalization
+Day_84 : 正規化/機移除/批次標準化的 組合與比較
+Day_85 : 訓練神經網路的細節與技巧 - 使用 callbacks 函數做 earlystop
+Day_86 : 訓練神經網路的細節與技巧 - 使用 callbacks 函數儲存 model
+Day_87 : 訓練神經網路的細節與技巧 - 使用 callbacks 函數做 reduce learning rate
+Day_88 : 訓練神經網路的細節與技巧 - 撰寫自己的 callbacks 函數
+Day_89 : 訓練神經網路的細節與技巧 - 撰寫自己的 Loss function
+Day_90 : 使用傳統電腦視覺與機器學習進行影像辨識
+Day_91 : 使用傳統電腦視覺與機器學習進行影像辨識
+```
+
+##### 9. 深度學習應用卷積神經網路
+
+* 卷積神經網路(CNN)常用於影像辨識的各種應用，譬如醫療影像與晶片瑕疵檢測
+
+```
+Day_92 : 卷積神經網路(Convolution Neural Network, CNN) 簡介
+Day_93 : 卷積神經網路架構細節
+Day_94 : 卷積神經網路 - 卷積(Convolution)層與參數調整
+Day_95 : 卷積神經網路 - 池化(Pooling)層與參數調整
+Day_96 : Keras 中的 CNN layers
+Day_97 : 使用 CNN 完成 CIFAR-10 資料集
+Day_98 : 訓練卷積神經網路的細節與技巧 - 處理大量數據
+Day_99 : 訓練卷積神經網路的細節與技巧 - 處理小量數據
+Day_100 : 訓練卷積神經網路的細節與技巧 - 轉移學習 (Transfer learning)
+```
+
+##### Kaggle 期末考
+
+```
+Day_101-103 : 影像辨識
+```
+
+##### 10. Bonus 進階補充
+
+* 電腦視覺實務延伸
+
+```
+Day_104 : 史丹佛線上 ConvNetJS 簡介 
+Day_105 : CNN 卷積網路回顧 
+Day_106 : 電腦視覺常用公開資料集 
+Day_107 : 電腦視覺應用介紹
+```
