@@ -1,43 +1,43 @@
 # 4th-ML100Days
 
-機器學習百日馬拉松是一個結合自學、專家協助及社群共學的 AI 自學挑戰活動，目的是希望學員從參與的那天起，每天至少花一小時，有系統的學習資料科學與機器學習的相關知識點，並進行
-AI 程式練習，連續堅持 100 天，進而更好理解掌握資料科學與
-AI 程式實作的能力。
+機器學習百日馬拉松是一個結合自學、專家協助及社群共學的 AI 自學挑戰活動，
+目的是希望學員從參與的那天起，每天至少花一小時，有系統的學習資料科學與機器學習的相關知識點，
+並進行 AI 程式練習，連續堅持 100 天，進而更好理解掌握資料科學與 AI 程式實作的能力。
 
 ### Part 1. 機器學習概論
 
-* 從概念上理解機器學習的目的與限制，並導覽機器學習流程
+- 從概念上理解機器學習的目的與限制，並導覽機器學習流程
 
-| Days | Title                                     |
-|------|-------------------------------------------|
-| 001  | [資料介紹與評估資料](homework/v1/Day_001_HW.ipynb) | 
-| 002  | [機器學習概論](homework/v1/Day_002_HW.ipynb)    | 
-| 003  | 機器學習 - 流程與步驟                              | 
-| 004  | EDA/讀取資料與分析流程                             |
+| Days | Title                                         |
+|:----:|:----------------------------------------------|
+| 001  | [資料介紹與評估資料](homework/v1/Day_001_HW.ipynb)     | 
+| 002  | [機器學習概論](homework/v1/Day_002_HW.ipynb)        | 
+| 003  | [機器學習 - 流程與步驟](homework/v1/Day_003_HW.ipynb)  |
+| 004  | [EDA/讀取資料與分析流程](homework/v1/Day_004_HW.ipynb) |
 
-### 2. 資料清理數據前處理
+### Part 2. 資料清理數據前處理
 
-* 以滾動方式進行資料清理與探索性分析
+- 以滾動方式進行資料清理與探索性分析
 
-```
-Day_05 : 如何新建一個 dataframe? 如何讀取其他資料? (非 csv 的資料)
-Day_06 : EDA：欄位的資料類型介紹及處理
-Day_07 : 特徵類型
-Day_08 : EDA資料分佈
-Day_09 : EDA：Outlier 及處理
-Day_10 : 數值特徵 - 去除離群值
-Day_11 : 常用的數值取代：中位數與分位數連續數值標準化
-Day_12 : 數值型特徵 - 補缺失值與標準化
-Day_13 : DataFrame operationData frame merge/常用的 DataFrame 操作
-Day_14 : 程式實作 EDA: correlation/相關係數簡介
-Day_15 : EDA from Correlation
-Day_16 : EDA: 不同數值範圍間的特徵如何檢視/繪圖與樣式Kernel Density Estimation (KDE)
-Day_17 : EDA: 把連續型變數離散化
-Day_18 : 程式實作 把連續型變數離散化
-Day_19 : Subplot
-Day_20 : Heatmap & Grid-plot
-Day_21 : 模型初體驗 Logistic Regression
-```
+| Days | Title                                                                                    |
+|:----:|:-----------------------------------------------------------------------------------------|
+| 005  | [如何新建一個 dataframe? 如何讀取其他資料? (非 csv 的資料)](homework/v1/Day_005_HW.ipynb)                  |
+| 006  | [EDA：欄位的資料類型介紹及處理](homework/v1/Day_006_HW.ipynb)                                         |
+| 007  | [特徵類型](homework/v1/Day_007_HW.ipynb)                                                     |
+| 008  | [EDA資料分佈](homework/v1/Day_008_HW.ipynb)                                                  |
+| 009  | [EDA：Outlier 及處理](homework/v1/Day_009_HW.ipynb)                                          |
+| 010  | [數值特徵 - 去除離群值](homework/v1/Day_010_HW.ipynb)                                             |
+| 011  | [常用的數值取代：中位數與分位數連續數值標準化](homework/v1/Day_011_HW.ipynb)                                   |
+| 012  | [數值型特徵 - 補缺失值與標準化](homework/v1/Day_012_HW.ipynb)                                         |
+| 013  | [DataFrame operationData frame merge/常用的 DataFrame 操作](homework/v1/Day_013_HW.ipynb)     |
+| 014  | [程式實作 EDA: correlation/相關係數簡介](homework/v1/Day_014_HW.ipynb)                             |
+| 015  | [EDA from Correlation](homework/v1/Day_015_HW.ipynb)                                     |
+| 016  | [EDA: 不同數值範圍間的特徵如何檢視/繪圖與樣式Kernel Density Estimation (KDE)](homework/v1/Day_016_HW.ipynb) |
+| 017  | [EDA: 把連續型變數離散化](homework/v1/Day_017_HW.ipynb)                                           |
+| 018  | [程式實作 把連續型變數離散化](homework/v1/Day_018_HW.ipynb)                                           |
+| 019  | [Subplot](homework/v1/Day_019_HW.ipynb)                                                  |
+| 020  | [Heatmap & Grid-plot](homework/v1/Day_020_HW.ipynb)                                      |
+| 021  | [模型初體驗 Logistic Regression](homework/v1/Day_021_HW.ipynb)                                |
 
 ##### 3. 資料科學特徵工程技術
 
