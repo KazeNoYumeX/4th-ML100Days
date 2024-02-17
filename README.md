@@ -201,3 +201,4 @@ Day_107 : 電腦視覺應用介紹
 | 004  | [EDA - 欄位的資料類型介紹及處理](homework/v2/Day_004_HW.ipynb) |
 | 005  | [EDA - 讀取資料與分析流程](homework/v2/Day_005_HW.ipynb)    |
 | 006  | [資料視覺化基本功](homework/v2/Day_006_HW.ipynb)           |
+| 007  | [視覺化更多圖表的技巧](homework/v2/Day_007_HW.ipynb)         |
