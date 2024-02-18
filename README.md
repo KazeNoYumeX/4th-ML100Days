@@ -204,3 +204,4 @@ Day_107 : 電腦視覺應用介紹
 | 007  | [視覺化更多圖表的技巧](homework/v2/Day_007_HW.ipynb)                                           |
 | 008  | [特徵工程簡介](homework/v2/Day_008_HW.ipynb)                                               |
 | 009  | [DataFrame operationData frame merge/常用的 DataFrame 操作](homework/v2/Day_009_HW.ipynb) |
+| 010  | [EDA - Outlier 及去除離群值](homework/v2/Day_010_HW.ipynb)                                 |
