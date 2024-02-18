@@ -6,3 +6,5 @@ requests ~= 2.31.0
 Faker ~= 23.2.1
 pillow ~= 10.2.0
 scikit-learn ~= 1.4.1
+seaborn ~= 0.13.2
+jupyter ~= 1.0.0
