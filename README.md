@@ -206,3 +206,4 @@ Day_107 : 電腦視覺應用介紹
 | 009  | [DataFrame operationData frame merge/常用的 DataFrame 操作](homework/v2/Day_009_HW.ipynb) |
 | 010  | [EDA - Outlier 及去除離群值](homework/v2/Day_010_HW.ipynb)                                 |
 | 011  | [連續變數之特徵工程](homework/v2/Day_011_HW.ipynb)                                            |
+| 012  | [類別變數之特徵工程](homework/v2/Day_012_HW.ipynb)                                            |
