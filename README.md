@@ -208,3 +208,4 @@ Day_107 : 電腦視覺應用介紹
 | 011  | [連續變數之特徵工程](homework/v2/Day_011_HW.ipynb)                                            |
 | 012  | [類別變數之特徵工程](homework/v2/Day_012_HW.ipynb)                                            |
 | 013  | [特徵挑選技巧](homework/v2/Day_013_HW.ipynb)                                               |
+| 014  | [特徵組合與特徵評估](homework/v2/Day_014_HW.ipynb)                                            |
