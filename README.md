@@ -213,3 +213,4 @@ Day_107 : 電腦視覺應用介紹
 | 013  | [特徵挑選技巧](homework/v2/Day_013_HW.ipynb)                                               |
 | 014  | [特徵組合與特徵評估](homework/v2/Day_014_HW.ipynb)                                            |
 | 015  | [時間型資料的特徵工程](homework/v2/Day_015_HW.ipynb)                                           |
+| 016  | [什麼是機器學習？為何機器可以學習？](homework/v2/Day_016_HW.ipynb)                                    |
