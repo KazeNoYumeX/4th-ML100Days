@@ -50,9 +50,9 @@
 | 022  | [特徵工程簡介](homework/v1/Day_022_HW.ipynb)         |
 | 023  | [數值型特徵 - 去除偏態](homework/v1/Day_023_HW.ipynb)   |
 | 024  | [類別型特徵 - 基礎處理](homework/v1/Day_024_HW.ipynb)   |
+| 025  | [類別型特徵 - 均值編碼](homework/v1/Day_025_HW.ipynb)   |
 
 ```
-Day_25 : 類別型特徵 - 均值編碼
 Day_26 : 類別型特徵 - 其他進階處理
 Day_27 : 時間型特徵
 Day_28 : 特徵組合 - 數值與數值組合
