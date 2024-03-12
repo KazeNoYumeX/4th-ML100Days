@@ -196,22 +196,23 @@ Day_107 : 電腦視覺應用介紹
 
 ### Part 1. 資料科學基礎
 
-| Days | Title                                                                                   |
-|------|-----------------------------------------------------------------------------------------|
-| 001  | [資料科學為人工智慧的第一步](homework/v2/Day_001_HW.ipynb)                                           |
-| 002  | [上手資料科學](homework/v2/Day_002_HW.ipynb)                                                  |
-| 003  | [資料介紹與評估資料](homework/v2/Day_003_HW.ipynb)                                               |
-| 004  | [EDA - 欄位的資料類型介紹及處理](homework/v2/Day_004_HW.ipynb)                                      |
-| 005  | [EDA - 讀取資料與分析流程](homework/v2/Day_005_HW.ipynb)                                         |
-| 006  | [資料視覺化基本功](homework/v2/Day_006_HW.ipynb)                                                |
-| 007  | [視覺化更多圖表的技巧](homework/v2/Day_007_HW.ipynb)                                              |
-| 008  | [特徵工程簡介](homework/v2/Day_008_HW.ipynb)                                                  |
-| 009  | [DataFrame operationData frame merge/常用的 DataFrame 操作](homework/v2/Day_009_HW.ipynb)    |
-| 010  | [EDA - Outlier 及去除離群值](homework/v2/Day_010_HW.ipynb)                                    |
-| 011  | [連續變數之特徵工程](homework/v2/Day_011_HW.ipynb)                                               |
-| 012  | [類別變數之特徵工程](homework/v2/Day_012_HW.ipynb)                                               |
-| 013  | [特徵挑選技巧](homework/v2/Day_013_HW.ipynb)                                                  |
-| 014  | [特徵組合與特徵評估](homework/v2/Day_014_HW.ipynb)                                               |
-| 015  | [時間型資料的特徵工程](homework/v2/Day_015_HW.ipynb)                                              |
-| 016  | [什麼是機器學習？為何機器可以學習？](homework/v2/Day_016_HW.ipynb)                                       |
-| 017  | [機器如何學習？](homework/v2/Day_017_HW.ipynb)                                                 |
+| Days | Title                                                                                |
+|------|--------------------------------------------------------------------------------------|
+| 001  | [資料科學為人工智慧的第一步](homework/v2/Day_001_HW.ipynb)                                        |
+| 002  | [上手資料科學](homework/v2/Day_002_HW.ipynb)                                               |
+| 003  | [資料介紹與評估資料](homework/v2/Day_003_HW.ipynb)                                            |
+| 004  | [EDA - 欄位的資料類型介紹及處理](homework/v2/Day_004_HW.ipynb)                                   |
+| 005  | [EDA - 讀取資料與分析流程](homework/v2/Day_005_HW.ipynb)                                      |
+| 006  | [資料視覺化基本功](homework/v2/Day_006_HW.ipynb)                                             |
+| 007  | [視覺化更多圖表的技巧](homework/v2/Day_007_HW.ipynb)                                           |
+| 008  | [特徵工程簡介](homework/v2/Day_008_HW.ipynb)                                               |
+| 009  | [DataFrame operationData frame merge/常用的 DataFrame 操作](homework/v2/Day_009_HW.ipynb) |
+| 010  | [EDA - Outlier 及去除離群值](homework/v2/Day_010_HW.ipynb)                                 |
+| 011  | [連續變數之特徵工程](homework/v2/Day_011_HW.ipynb)                                            |
+| 012  | [類別變數之特徵工程](homework/v2/Day_012_HW.ipynb)                                            |
+| 013  | [特徵挑選技巧](homework/v2/Day_013_HW.ipynb)                                               |
+| 014  | [特徵組合與特徵評估](homework/v2/Day_014_HW.ipynb)                                            |
+| 015  | [時間型資料的特徵工程](homework/v2/Day_015_HW.ipynb)                                           |
+| 016  | [什麼是機器學習？為何機器可以學習？](homework/v2/Day_016_HW.ipynb)                                    |
+| 017  | [機器如何學習？](homework/v2/Day_017_HW.ipynb)                                              |
+| 018  | [模型初體驗](homework/v2/Day_018_HW.ipynb)                                                |
