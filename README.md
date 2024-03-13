@@ -52,9 +52,9 @@
 | 024  | [類別型特徵 - 基礎處理](homework/v1/Day_024_HW.ipynb)   |
 | 025  | [類別型特徵 - 均值編碼](homework/v1/Day_025_HW.ipynb)   |
 | 026  | [類別型特徵 - 其他進階處理](homework/v1/Day_026_HW.ipynb) |
+| 027  | [時間型特徵](homework/v1/Day_027_HW.ipynb)          |
 
 ```
-Day_27 : 時間型特徵
 Day_28 : 特徵組合 - 數值與數值組合
 Day_29 : 特徵組合 - 類別與數值組合
 Day_30 : 特徵選擇
