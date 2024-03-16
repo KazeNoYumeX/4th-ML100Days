@@ -55,12 +55,10 @@
 | 027  | [時間型特徵](homework/v1/Day_027_HW.ipynb)          |
 | 028  | [特徵組合 - 數值與數值組合](homework/v1/Day_028_HW.ipynb) |
 | 029  | [特徵組合 - 類別與數值組合](homework/v1/Day_029_HW.ipynb) |
+| 030  | [特徵選擇](homework/v1/Day_030_HW.ipynb)           |
 
-```
-Day_30 : 特徵選擇
 Day_31 : 特徵評估
 Day_32 : 分類型特徵優化 - 葉編碼
-```
 
 ##### 4. 機器學習基礎模型建立
 
