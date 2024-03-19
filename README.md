@@ -59,13 +59,15 @@
 | 031  | [特徵評估](homework/v1/Day_031_HW.ipynb)           |
 | 032  | [分類型特徵優化 - 葉編碼](homework/v1/Day_032_HW.ipynb)  |
 
+### Part 4. 機器學習基礎模型建立
 
-##### 4. 機器學習基礎模型建立
+- 學習透過Scikit-learn等套件，建立機器學習模型並進行訓練！
 
-* 學習透過Scikit-learn等套件，建立機器學習模型並進行訓練！
+| Days | Title                                                                                   |
+|:----:|:----------------------------------------------------------------------------------------|
+| 033  | [機器如何學習?](homework/v1/Day_033_HW.ipynb)                                                 |
 
 ```
-Day_33 : 機器如何學習?
 Day_34 : 訓練/測試集切分的概念
 Day_35 : Regression vs. Classification
 Day_36 : 評估指標選定/Evaluation Metrics
