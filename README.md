@@ -66,9 +66,9 @@
 | Days | Title                                                                                   |
 |:----:|:----------------------------------------------------------------------------------------|
 | 033  | [機器如何學習?](homework/v1/Day_033_HW.ipynb)                                                 |
+| 034  | [訓練/測試集切分的概念](homework/v1/Day_034_HW.ipynb)                                             |
 
 ```
-Day_34 : 訓練/測試集切分的概念
 Day_35 : Regression vs. Classification
 Day_36 : 評估指標選定/Evaluation Metrics
 Day_37 : Regression Model 介紹 - 線性迴歸/羅吉斯回歸
