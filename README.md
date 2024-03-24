@@ -69,9 +69,9 @@
 | 034  | [訓練/測試集切分的概念](homework/v1/Day_034_HW.ipynb)                                             |
 | 035  | [Regression vs. Classification](homework/v1/Day_035_HW.ipynb)                           |
 | 036  | [評估指標選定/Evaluation Metrics](homework/v1/Day_036_HW.ipynb)                               |
+| 037  | [Regression Model 介紹 - 線性迴歸/羅吉斯回歸](homework/v1/Day_037_HW.ipynb)                        |
 
 ```
-Day_37 : Regression Model 介紹 - 線性迴歸/羅吉斯回歸
 Day_38 : Regression Model 程式碼撰寫
 Day_39 : Regression Model 介紹 - LASSO 回歸/ Ridge 回歸
 Day_40 : Regression Model 程式碼撰寫
