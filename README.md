@@ -23,7 +23,7 @@
 
 | Days | Title                                                                                    |
 |:----:|:-----------------------------------------------------------------------------------------|
-| 005  | [如何新建一個 dataframe? 如何讀取其他資料? (非 csv 的資料)](homework/v1/Day_005_HW.ipynb)                  |
+| 005  | [如何新建一個 DataFrame? 如何讀取其他資料? (非 CSV 的資料)](homework/v1/Day_005_HW.ipynb)                  |
 | 006  | [EDA：欄位的資料類型介紹及處理](homework/v1/Day_006_HW.ipynb)                                         |
 | 007  | [特徵類型](homework/v1/Day_007_HW.ipynb)                                                     |
 | 008  | [EDA資料分佈](homework/v1/Day_008_HW.ipynb)                                                  |
@@ -32,7 +32,7 @@
 | 011  | [常用的數值取代：中位數與分位數連續數值標準化](homework/v1/Day_011_HW.ipynb)                                   |
 | 012  | [數值型特徵 - 補缺失值與標準化](homework/v1/Day_012_HW.ipynb)                                         |
 | 013  | [DataFrame operationData frame merge/常用的 DataFrame 操作](homework/v1/Day_013_HW.ipynb)     |
-| 014  | [程式實作 EDA: correlation/相關係數簡介](homework/v1/Day_014_HW.ipynb)                             |
+| 014  | [程式實作 EDA: Correlation/相關係數簡介](homework/v1/Day_014_HW.ipynb)                             |
 | 015  | [EDA from Correlation](homework/v1/Day_015_HW.ipynb)                                     |
 | 016  | [EDA: 不同數值範圍間的特徵如何檢視/繪圖與樣式Kernel Density Estimation (KDE)](homework/v1/Day_016_HW.ipynb) |
 | 017  | [EDA: 把連續型變數離散化](homework/v1/Day_017_HW.ipynb)                                           |
