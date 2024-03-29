@@ -74,9 +74,9 @@
 | 039  | [Regression Model 介紹 - LASSO 回歸/ Ridge 回歸](homework/v1/Day_039_HW.ipynb)                |
 | 040  | [Regression Model 程式碼撰寫](homework/v1/Day_040_HW.ipynb)                                  |
 | 041  | [Tree Based Model - 決策樹 (Decision Tree) 模型介紹](homework/v1/Day_041_HW.ipynb)             |
+| 042  | [Tree Based Model - 決策樹程式碼撰寫](homework/v1/Day_042_HW.ipynb)                             |
 
 ```
-Day_42 : tree based model - 決策樹程式碼撰寫
 Day_43 : tree based model - 隨機森林 (Random Forest) 介紹
 Day_44 : tree based model - 隨機森林程式碼撰寫
 Day_45 : tree based model - 梯度提升機 (Gradient Boosting Machine) 介紹
