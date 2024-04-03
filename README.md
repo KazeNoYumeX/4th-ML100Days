@@ -77,9 +77,9 @@
 | 042  | [Tree Based Model - 決策樹程式碼撰寫](homework/v1/Day_042_HW.ipynb)                             |
 | 043  | [Tree Based Model - 隨機森林 (Random Forest) 介紹](homework/v1/Day_043_HW.ipynb)              |
 | 044  | [Tree Based Model - 隨機森林程式碼撰寫](homework/v1/Day_044_HW.ipynb)                            |
+| 045  | [Tree Based Model - 梯度提升機 (Gradient Boosting Machine) 介紹](homework/v1/Day_045_HW.ipynb) |
 
 ```
-Day_45 : tree based model - 梯度提升機 (Gradient Boosting Machine) 介紹
 Day_46 : tree based model - 梯度提升機程式碼撰寫
 ```
 
