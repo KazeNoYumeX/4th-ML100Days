@@ -80,12 +80,15 @@
 | 045  | [Tree Based Model - 梯度提升機 (Gradient Boosting Machine) 介紹](homework/v1/Day_045_HW.ipynb) |
 | 046  | [Tree Based Model - 梯度提升機程式碼撰寫](homework/v1/Day_046_HW.ipynb)                           |
 
-##### 5. 機器學習調整參數
+### Part 5. 機器學習調整參數
 
-* 了解模型內的參數意義，學習如何根據模型訓練情形來調整參數
+- 了解模型內的參數意義，學習如何根據模型訓練情形來調整參數
+
+| Days | Title                                                 |
+|:----:|:------------------------------------------------------|
+| 047  | [超參數調整與優化](homework/v1/Day_047_HW.ipynb)              |
 
 ```
-Day_47 : 超參數調整與優化
 Day_48 : Kaggle 競賽平台介紹
 Day_49 : 集成方法 : 混合泛化(Blending)
 Day_50 : 集成方法 : 堆疊泛化(Stacking)
