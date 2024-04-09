@@ -88,9 +88,8 @@
 |:----:|:------------------------------------------------------|
 | 047  | [超參數調整與優化](homework/v1/Day_047_HW.ipynb)              |
 | 048  | [Kaggle 競賽平台介紹](homework/v1/Day_048_HW.ipynb)         |
-
+| 049  | [集成方法 : 混合泛化(Blending)](homework/v1/Day_049_HW.ipynb) |
 ```
-Day_49 : 集成方法 : 混合泛化(Blending)
 Day_50 : 集成方法 : 堆疊泛化(Stacking)
 ```
 
