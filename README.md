@@ -221,3 +221,4 @@ Day_107 : 電腦視覺應用介紹
 | 017  | [機器如何學習？](homework/v2/Day_017_HW.ipynb)                       |
 | 018  | [模型初體驗](homework/v2/Day_018_HW.ipynb)                         |
 | 019  | [Regression vs. Classification](homework/v2/Day_019_HW.ipynb) |
+| 020  | [再探線性迴歸](homework/v2/Day_020_HW.ipynb)                        |
